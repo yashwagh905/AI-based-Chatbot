@@ -1,0 +1,70 @@
+{"intents": [
+  
+  {"tag": "goodbye",
+    "patterns": ["cya", "See you later", "Goodbye", "I am Leaving", "Have a Good day", "bye", "cao", "see ya"],
+    "responses": ["Sad to see you go :(", "Talk to you later", "Goodbye!", "Bye", "See you Soon"],
+    "context_set": ""
+  },
+  {"tag": "greeting",
+    "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day", "Whats up", "Hey", "greetings"],
+    "responses": ["Hello!", "Good to see you again!", "Hi there, how can I help?", "What's up?", "Good Day!"],
+    "context_set": ""
+  },
+  {"tag": "stocks",
+    "patterns": ["what stocks do I own?", "how are my shares?", "what companies am I investing in?", "what am I doing in the markets?"],
+    "responses": ["You own the following shares: ABBV, AAPL, FB, NVDA and an ETF of the S&P 500 Index!"],
+    "context_set": ""
+  },
+  {"tag": "name",
+    "patterns": ["who are you", "whats your name", "do i know you", "Who created you?", "Who made you?"],
+    "responses": ["My Name is Neural, the Helper", "I am Neural", "I am Neural, I was created by T-10 group to help you"],
+    "context_set": ""
+  },
+  {"tag": "help",
+    "patterns": ["help", "i have a problem", "i need help", "problem","can you help me?"],
+    "responses": ["Don't worry , We will help you out!!", "You contacted the right person, my brother!","Mail me Man! I got you covered!!"],
+    "context_set": ""
+  },
+  
+  {"tag": "entertain",
+    "patterns": ["I am bored, help me! ", "Entertain me", "I am tired bro!"],
+    "responses": ["Cheer up man!Watch these videos- https://youtu.be/dQw4w9WgXcQ", "Browse these funny videos- https://youtu.be/HeGVeBWECu8,https://youtu.be/g51z064meDU"],
+    "context_set": ""
+  },
+  {"tag": "language",
+    "patterns": ["which language do you speak?? ", "Do you speak more than one language?"],
+    "responses": ["English is the only language I speak"],
+    "context_set": ""
+  },
+  {"tag": "live",
+    "patterns": ["Where do you live? ", "Where is your existance?"],
+    "responses": ["I am called Nueral!!I exist in your brain cells"],
+    "context_set": ""
+  },
+  {"tag": "jokes",
+    "patterns": ["Tell me a joke ", "Can u tell me a joke?", "Do you have any jokes?"],
+    "responses": ["Do you want to hear a construction joke? Sorry, I am still working on it.", "Why are spiders so smart? Because they can find everything on WEB", "I invented a new word! Plagiarism!", "Did you hear about the Italian chef who died? He pasta-way"],
+    "context_set": ""
+  },
+  {"tag": "India",
+    "patterns": ["What is India", "Tell me something about India", "Do you have any jokes?"],
+    "responses": ["India is a very beautiful country","I live in India and it is known for its Unity"],
+    "context_set": ""
+  },
+  {"tag": "Finance",
+    "patterns": ["how are stocks today?", "tell me something about market", "Give me some finance news"],
+    "responses": ["Markets seem to be down nowadays","Markets are UP!! Seems to be best time to invest. Here are some tips for you : https://www.forbes.com/advisor/in/investing/tips-for-long-term-investing/", "Its been shaky. Here are some More insights : https://www.moneycontrol.com/stocksmarketsindia/"],
+    "context_set": ""
+  },
+  {"tag": "weather",
+    "patterns": ["how is the weather today?", "how is it feeling today?"],
+    "responses": ["Its feeling windy today. Do you feel it too?","Here are some weather updates: https://www.timeanddate.com/weather/india/pune/ext", "This is Monsoon season, its a bit humid outside"],
+    "context_set": ""
+  },
+  {"tag": "creator",
+    "patterns": ["who made you?", "who is your creator?"],
+    "responses": ["I am Neural, I was created by T-10 group to help you", "T-10 group brought me to existance."],
+    "context_set": ""
+  }
+  
+]}

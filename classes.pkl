@@ -1,0 +1,1 @@
+["Finance", "India", "creator", "entertain", "goodbye", "greeting", "help", "jokes", "language", "live", "name", "stocks", "weather"]
